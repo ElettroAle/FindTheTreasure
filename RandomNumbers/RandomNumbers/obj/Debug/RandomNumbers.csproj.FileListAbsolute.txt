@@ -1,0 +1,10 @@
+F:\Ale\Documenti\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
+F:\Ale\Documenti\SharpDevelop Projects\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+F:\Ale\Documenti\SharpDevelop Projects\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+F:\Ale\Documenti\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+F:\Ale\Documenti\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
+F:\Workspaces\SharpDevelop Projects\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+F:\Workspaces\SharpDevelop Projects\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+F:\Workspaces\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
+F:\Workspaces\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+F:\Workspaces\SharpDevelop Projects\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
